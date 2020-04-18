@@ -1,0 +1,10 @@
+--SCRIPT MIGRAÇÃO STATUS JOGADORES
+USE CAOFRADES_FC
+
+INSERT INTO TBL_STATUS_JOGADOR 
+	VALUES 
+	('Jogador'),
+	('Tampão'),
+	('Ex-jogador');
+			
+			
